@@ -4,7 +4,9 @@ An interactive web tool to explore how language models measure sentence probabil
 
 Built with pure HTML, CSS, and vanilla JavaScript—no backend, no API keys, and no frameworks required.
 
-![Perplexity Explorer Screenshot](https://img.shields.io/badge/Model-Xenova%2Fdistilgpt2-indigo?style=flat-square)
+👉 **[Live Demo on GitHub Pages](https://lilacloop-2707.github.io/perplexity-explorer/)**
+
+![Perplexity Explorer](https://img.shields.io/badge/Model-Xenova%2Fdistilgpt2-indigo?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 ---
